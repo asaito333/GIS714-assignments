@@ -2,4 +2,4 @@
 data/
 !.gitignore
 !*.ipynb
-data/dix_park/PERMANENT/WIND
+.DS_Store
