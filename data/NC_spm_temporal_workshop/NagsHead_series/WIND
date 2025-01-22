@@ -8,11 +8,11 @@ cols:       976
 rows:       940
 e-w resol:  1
 n-s resol:  1
-top:        1.000000000000000
-bottom:     0.000000000000000
-cols3:      976
-rows3:      940
-depths:     1
-e-w resol3: 1
-n-s resol3: 1
+top:        2009.000000000000000
+bottom:     1999.000000000000000
+cols3:      325
+rows3:      313
+depths:     10
+e-w resol3: 3.00307692
+n-s resol3: 3.00319489
 t-b resol:  1
